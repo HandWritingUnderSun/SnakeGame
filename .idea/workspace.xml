@@ -6,36 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b22d9793-4979-4a33-9dd5-120ecd583400" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/games/snakegame/Cell.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/games/snakegame/Data.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/games/snakegame/Food.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/games/snakegame/MainBoard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/games/snakegame/MainMenu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/games/snakegame/MainPanel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/games/snakegame/Snake.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/games/snakegame/SnakeDirection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/games/snakegame/SnakeGameBoard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/games/snakegame/up.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/MSN Color - Gel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/SetUp.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/body.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/down.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/food.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/header.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/music.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/square exit - gel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/square reboot - gel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/square standby - gel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/up.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/快速.png" beforeDir="false" />
-    </list>
+    <list default="true" id="b22d9793-4979-4a33-9dd5-120ecd583400" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -122,7 +93,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="143" />
     <option name="y" value="-22" />
     <option name="width" value="1171" />
@@ -136,8 +107,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -186,7 +158,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -296,19 +267,18 @@
       <workItem from="1598001142051" duration="1440000" />
       <workItem from="1598578360039" duration="90000" />
       <workItem from="1598578485111" duration="1696000" />
+      <workItem from="1599010362967" duration="611000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52300000" />
+    <option name="totallyTimeSpent" value="52911000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32761577" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -320,7 +290,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24281392" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24659607" />
       <window_info anchor="right" id="Database" order="3" visible="true" weight="0.32980332" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -334,6 +304,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32761577" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -360,9 +331,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -412,9 +380,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="method#equals#0;class#Cell#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -433,9 +398,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -485,9 +447,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="method#equals#0;class#Cell#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -535,9 +494,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="method#equals#0;class#Cell#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -591,9 +547,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="method#equals#0;class#Cell#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -640,9 +593,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="method#equals#0;class#Cell#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -680,9 +630,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="method#equals#0;class#Cell#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -729,9 +676,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="28">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
